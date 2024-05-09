@@ -1,4 +1,4 @@
-![[Pasted image 20240510021009.png|400]]
+
 ## Description
 Atari Breakout is a classic arcade game where the player controls a paddle to bounce a ball and break bricks at the top of the screen. The goal is to break as many bricks as possible while preventing the ball from falling below the paddle.
 
